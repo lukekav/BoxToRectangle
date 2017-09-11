@@ -1,0 +1,13 @@
+{
+   "browser_action": {
+      "default_icon": "38_38.png",
+      "default_popup": "popup.html"
+   },
+   "description": "This extension allows the user to stretch a 4:3 formatted video on Netflix to the 16:9 format",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz/pYILe6kh25qASN5x0n7EO4JhqUl5TF9HmJfySKGlaKIxPoMoPL55ieFmLLj0HmnJyOw0SyjY9Ezo07jWsedqXKrGO48+JjxZgZWDO8Iduo24dFqYuJd36xfemVaa4kRKaxftN0pnU5/zSnVsS4zKbz8bX7rNia5typASbF7Ic3nmvlZ8vbQwjlQ24Qhny2eC6biOH+gehIES7a1IgdA8oll92xeMKyS3gZtvxPY0dkIQ4RS/2pdEO48bEpOHwOkARB05fUMGayU9gw8vICko3q49YGV8qlqCrPO3/+TAjMiYMWWJjnu3hqmRzWt9rkR72k0HQVLCJUwFTivmgI6QIDAQAB",
+   "manifest_version": 2,
+   "name": "BoxToRectangle",
+   "permissions": [ "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.5"
+}
